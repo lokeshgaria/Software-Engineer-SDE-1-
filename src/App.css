@@ -1,0 +1,22 @@
+.todo-app {
+  width: 400px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.todo-input {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.todo-input .MuiTextField-root {
+  width: 70%;
+}
+
+ 
+ 
+.MuiListItem-root {
+  display: flex;
+  align-items: center;
+}
